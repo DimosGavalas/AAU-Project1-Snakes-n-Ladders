@@ -9,3 +9,6 @@ Currently the version of this project is not in a finished state and more featur
 ### Game Details and Rules
 The game can be played by one or two players. A player will hit the SPACEBAR to roll the dice and move on the tileboard. Every time the dice is roled the player will be aksed a question, if he/she answers the question right he/she will continue to play by rolling again the dice and getting a new question. In the mode with two players, if the answer is wrong the next player rolls the dice. The tileboard has 100 tiles and who is able to arrive at finish is the winner. <br>
 Furthermore, here are some tiles with specific attributes. These attributes are determined by portals and blackholes. When a player lands in a tile with an open portal will be transferred to a higher numbered tile. Whe a player lands in a tile with an open black hole will be transferred in a lower numbered tile, thus losing progress. 
+<br>
+<br>
+![Alt text](https://github.com/DimosGavalas/General-Repository/blob/master/Snakes%20and%20Ladders%20Assets/ezgif.com-video-to-gif%20(1).gif)
