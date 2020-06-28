@@ -11,4 +11,9 @@ The game can be played by one or two players. A player will hit the SPACEBAR to 
 Furthermore, here are some tiles with specific attributes. These attributes are determined by portals and blackholes. When a player lands in a tile with an open portal will be transferred to a higher numbered tile. Whe a player lands in a tile with an open black hole will be transferred in a lower numbered tile, thus losing progress. 
 <br>
 <br>
+#### Portal
 ![Alt text](https://github.com/DimosGavalas/General-Repository/blob/master/Snakes%20and%20Ladders%20Assets/ezgif.com-video-to-gif%20(1).gif)
+<br>
+<br>
+#### Black Hole
+![Alt text](https://github.com/DimosGavalas/General-Repository/blob/master/Snakes%20and%20Ladders%20Assets/Black-hole-gif.gif)
