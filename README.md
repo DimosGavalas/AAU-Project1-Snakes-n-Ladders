@@ -15,5 +15,5 @@ Furthermore, here are some tiles with specific attributes. These attributes are 
 ![Alt text](https://github.com/DimosGavalas/General-Repository/blob/master/Snakes%20and%20Ladders%20Assets/ezgif.com-video-to-gif%20(1).gif)
 <br>
 <br>
-#### Black Hole
+#### Portal & Black Hole
 ![Alt text](https://github.com/DimosGavalas/General-Repository/blob/master/Snakes%20and%20Ladders%20Assets/Black-hole-gif.gif)
